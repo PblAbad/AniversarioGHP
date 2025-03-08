@@ -43,7 +43,7 @@ export class GalleryComponent {
     'gafas2.jpeg',
     'gin.jpeg',
     'gin2.jpeg',
-    'hotel.jpeg',
+    'hotel.jpg',
     'manos.jpeg',
     'masca.jpeg',
     'nose.jpeg',
