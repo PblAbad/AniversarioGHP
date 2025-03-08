@@ -4,7 +4,7 @@
   </h1>
   <swiper-container effect="cards" grab-cursor="true">
     <swiper-slide *ngFor="let image of images" lazy="true" class="flex justify-center items-center">
-      <img [src]="'/assets/images/' + image" loading="lazy" class="w-full h-full object-cover">
+      <img [src]="'assets/images/' + image" loading="lazy" class="w-full h-full object-cover">
     </swiper-slide>
   </swiper-container>
 </div>
