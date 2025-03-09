@@ -13,8 +13,8 @@ export class HomeComponent {
   // Lista de imágenes para el carrusel
   images = [
     'assets/images/bubble.jpeg',
-    'assets/images/cafeteria.jpg',
-    'assets/images/manos.jpeg',
+    'assets/images/alle.jpeg',
+    'assets/images/playa.jpeg',
   ];
 
   // Índice de la imagen actual
